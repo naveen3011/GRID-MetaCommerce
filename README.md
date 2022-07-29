@@ -4,7 +4,7 @@
 
 **Install the node js**
 
-**Install the CLI**
+**initialize our project**
 ```bash
 npm init
 ```
