@@ -20,3 +20,9 @@ $:  dcl start
 
 Any dependencies are installed and then the CLI opens the scene in a new browser tab.
 Learn more about how to build your own scenes in our [documentation](https://docs.decentraland.org/) site.
+
+
+
+## Copyright info
+
+This scene is protected with a standard Apache 2 licence. See the terms and conditions in the [LICENSE](/LICENSE) file.
