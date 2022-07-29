@@ -1,8 +1,13 @@
 # MetaCommerce---The-Future-of-Shopping-with-Metaverse
 
-## Try it out
+## setup the project
+
+**Install the node js**
 
 **Install the CLI**
+```bash
+npm init
+```
 
 Download and install the Decentraland CLI by running the following command:
 
